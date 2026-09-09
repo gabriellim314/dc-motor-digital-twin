@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Test and type-check caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Generated outputs
+outputs/
+*.png
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Environment and editor
+.env
+.DS_Store
+.idea/
+.vscode/
